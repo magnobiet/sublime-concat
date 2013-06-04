@@ -4,11 +4,11 @@ Automatically concatenate all of the dependencies in the current file.
 
 ## Installation
 
-**Without Git:** Download the latest source from [GitHub](https://github.com/magnobiet/SublimeConcat) and copy the whole directory into the Packages directory.
+**Without Git:** Download the latest source from [GitHub](https://github.com/magnobiet/sublime-concat) and copy the whole directory into the Packages directory.
 
 **With Git:** Clone the repository in your Sublime Text 2 Packages directory, located somewhere in user's "Home" directory:
 
-	git clone git://github.com/magnobiet/SublimeConcat.git
+	git clone git://github.com/magnobiet/sublime-concat.git
 
 
 The "Packages" packages directory is located at:
@@ -59,7 +59,7 @@ Use with [YUI Compressor](https://github.com/leon/YUI-Compressor) and [SublimeOn
 
 ## History
 
-Check [HISTORY.md](https://github.com/magnobiet/SublimeConcat/blob/master/HISTORY.md)
+Check [HISTORY.md](https://github.com/magnobiet/sublime-concat/blob/master/HISTORY.md)
 
 ## License
 
