@@ -1,6 +1,6 @@
 [
 	{
-		"keys": ["super+shift+c"],
+		"keys": ["ctrl+shift+c"],
 		"command": "concat"
 	}
 ]
